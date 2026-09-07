@@ -1,0 +1,44 @@
+piloto-mestrado
+Projeto destinado a predizer a evasão universitária da UFERSA.
+
+Neste piloto, os estudantes analisados são os egressos (concludentes ou evadidos) do curso de Bacharelado em Ciência e Tecnologia da Universidade Federal Rural do Semi-Árido - UFERSA
+
+Os dados que compõe a base a analisada foram coletados via formulários do google, enviados para os estudantes via email, por meio do SIGAA.
+
+O período compreendido entre 17/12/2021 e 01/02/2022, obteve 229 respostas.
+
+Descrição da base
+O conjunto de dados contém 32 colunas, que apresentam informações acadêmicas e pessoais dos estudantes. conforme exibido abaixo.
+
+situação atual em relação ao curso de CeT (classificador)
+Qual Campus e turno
+ano e semestre de ingresso
+semestre de conclusão ou desistência
+primeira opção de curso
+algum conhecimento prévio na área antes de ingressar no curso
+tipo de escola cursou o ensino médio
+Caso tenha estudado em escola pública, qual foi o tipo de instituição
+tipo de escola você cursou o ensino fundamental
+Caso tenha estudado em escola pública, qual foi o tipo de instituição
+cidade/estado você morava antes de ingressar na universidade
+se mudou para morar na mesma cidade do campus que se matriculou ao ingressar na universidade
+morou na vila acadêmica
+gênero
+raça
+Estado Civil
+tem filhos
+trabalha
+renda mensal da família ao ingressar na universidade
+foi contemplado alguma bolsa durante o período que esteve no curso
+aproveitamento acadêmico, até o segundo semestre do curso
+durante o período que esteve no curso teve o devido acompanhamento da universidade
+a grade curricular do curso de CeT é adequado ao que se exige no mercado de trabalho
+cadeia de pré-requisitos das disciplinas do curso é adequada
+critérios de avaliação do desempenho do aluno é adequado
+infraestrutura da instituição como laboratórios, bibliotecas, equipamentos de informática e etc, é adequada
+considera que os professores apresentam deficiências pedagógicas, desinteresse ou outros problemas?
+as carreiras relacionadas ao curso de CeT são socialmente reconhecidas
+considera que o profissional formado em CeT é pago adequadamente
+durante o período que você estava no curso, os pais eram casados
+nível de escolaridade da mãe
+nível de escolaridade do pai
