@@ -56,11 +56,17 @@ quartiles carry no meaning; each run records this in `outlier_handling.md`.
 Python 3.10 or later.
 
 ```bash
-git clone https://github.com/<USER>/<REPOSITORY>.git
-cd <REPOSITORY>
-python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
+git clone https://github.com/fernandafnascmnt/Mestrado_Evasao.git
+cd Mestrado_Evasao/dropout-prediction
+python -m venv .venv
+source .venv/bin/activate
 pip install -e .
 ```
+
+On Windows, activate the environment with `.venv\Scripts\activate` in
+PowerShell and use `py` in place of `python` if the launcher is installed.
+`make` is not required: every target in the `Makefile` is a single command that
+can also be typed directly.
 
 ## Running the experiment
 
@@ -71,17 +77,20 @@ seconds:
 python -m dropout_prediction --output results_check --reduced
 ```
 
-Then run the full protocol. Fifty repetitions of a ten-fold grid search over
-seven algorithms take several hours on a desktop machine; `per_repetition_results.csv`
-is rewritten after every model, so a long run can be inspected while in progress.
+Then run the full protocol:
 
 ```bash
 python -m dropout_prediction --output results
 ```
 
+Fifty repetitions of a ten-fold grid search over seven algorithms take roughly
+forty minutes on a recent desktop with every core in use, and proportionally
+longer on fewer cores. `per_repetition_results.csv` is rewritten after each
+model, so the run can be inspected while it is still in progress.
+
 Useful options: `--repetitions`, `--cv-folds`, `--jobs` (`-1` uses every core),
-`--no-figures`, `--quiet`. `make check`, `make experiment` and `make figures`
-wrap the same commands.
+`--no-figures`, `--quiet`. On Unix-like systems, `make check`, `make experiment`
+and `make figures` wrap the same commands.
 
 Results obtained with `--reduced` collapse each grid to one configuration and
 must not be reported.

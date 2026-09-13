@@ -10,7 +10,7 @@ authors:
     affiliation: <INSTITUTION>
     orcid: https://orcid.org/<ORCID>
 license: MIT
-repository-code: https://github.com/<USER>/<REPOSITORY>
+repository-code: https://github.com/fernandafnascmnt/Mestrado_Evasao
 keywords:
   - educational data mining
   - dropout prediction

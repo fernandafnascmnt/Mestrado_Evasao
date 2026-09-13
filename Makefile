@@ -7,7 +7,7 @@ OUT    ?= results
 help:
 	@echo "install     install the package and its dependencies"
 	@echo "check       single reduced repetition, to verify the installation"
-	@echo "experiment  full run: 50 repetitions x 10-fold (several hours)"
+	@echo "experiment  full run: 50 repetitions x 10-fold (around forty minutes)"
 	@echo "figures     rebuild the figures from an existing results directory"
 	@echo "clean       remove generated artefacts"
 
