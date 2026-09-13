@@ -1,0 +1,33 @@
+variable,description_en,description_pt,role
+var_0,Current status in the programme (class label),Situação atual no curso (classe),target
+var_1,Campus and shift,Campus e turno,predictor
+var_2,Year and semester of enrollment,Ano e semestre de ingresso,predictor
+var_3,Semester of completion or dropout,Semestre de conclusão ou desistência,excluded (post-outcome information)
+var_4,First-course choice,Primeira opção de curso,predictor
+var_5,Prior knowledge of the field,Conhecimento prévio na área,predictor
+var_6,Type of secondary school,Tipo de escola do ensino médio,predictor
+var_7,Type of public secondary school,Tipo de instituição pública do ensino médio,predictor
+var_8,Type of elementary school,Tipo de escola do ensino fundamental,predictor
+var_9,Type of public elementary school,Tipo de instituição pública do ensino fundamental,predictor
+var_10,City and state of residence before enrollment,Cidade/estado antes do ingresso,predictor
+var_11,Relocation to the campus city,Mudou-se para a cidade do campus,predictor
+var_12,Lived in the student village,Morou na vila acadêmica,predictor
+var_13,Gender,Gênero,predictor
+var_14,Race,Raça,predictor
+var_15,Marital status,Estado civil,predictor
+var_16,Has children,Tem filhos,predictor
+var_17,Employed during the programme,Trabalha,predictor
+var_18,Family monthly income at enrollment,Renda familiar no ingresso,predictor
+var_19,Received a scholarship during the programme,Recebeu bolsa durante o curso,predictor
+var_20,Academic performance up to the second semester,Aproveitamento acadêmico até o 2o semestre,predictor
+var_21,Institutional support during the programme,Acompanhamento da universidade,predictor
+var_22,Adequacy of the curriculum,Adequação da grade curricular,predictor
+var_23,Adequacy of the prerequisite chain,Adequação dos pré-requisitos,predictor
+var_24,Adequacy of the assessment criteria,Adequação dos critérios de avaliação,predictor
+var_25,Adequacy of the infrastructure,Adequação da infraestrutura,predictor
+var_26,Pedagogical problems or lack of lecturer engagement,Problemas pedagógicos/desinteresse dos professores,predictor
+var_27,Social recognition of the related careers,Reconhecimento social das carreiras,predictor
+var_28,Perception of professional remuneration,Percepção sobre remuneração profissional,predictor
+var_29,Parents married during the programme,Pais casados durante o curso,predictor
+var_30,Mother's education level,Escolaridade da mãe,predictor
+var_31,Father's education level,Escolaridade do pai,predictor

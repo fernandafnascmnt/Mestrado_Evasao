@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+title: >-
+  Evaluating Machine Learning Algorithms for Predicting Dropout Risk
+  in a Science and Technology Course
+message: If you use this software or dataset, please cite the accompanying article.
+type: software
+authors:
+  - given-names: <FIRST NAME>
+    family-names: <LAST NAME>
+    affiliation: <INSTITUTION>
+    orcid: https://orcid.org/<ORCID>
+license: MIT
+repository-code: https://github.com/<USER>/<REPOSITORY>
+keywords:
+  - educational data mining
+  - dropout prediction
+  - machine learning
+  - CRISP-DM
+preferred-citation:
+  type: article
+  title: >-
+    Evaluating Machine Learning Algorithms for Predicting Dropout Risk
+    in a Science and Technology Course
+  authors:
+    - given-names: <FIRST NAME>
+      family-names: <LAST NAME>
+  journal: IEEE Revista Iberoamericana de Tecnologias del Aprendizaje
+  year: 2026
