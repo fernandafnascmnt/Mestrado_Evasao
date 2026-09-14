@@ -1,0 +1,16 @@
+source_variable,description,importance,rank,selected
+var_20,Academic performance up to the second semester,0.11571656079369567,1,True
+var_2,Year and semester of enrollment,0.09858762642357516,2,True
+var_1,Campus and shift,0.0604757256928163,3,True
+var_18,Family monthly income at enrollment,0.05911228303091306,4,True
+var_31,Father's education level,0.05535417267363823,5,True
+var_30,Mother's education level,0.055341339835850344,6,True
+var_19,Received a scholarship during the programme,0.04672080011801638,7,True
+var_11,Relocation to the campus city,0.03928517783699689,8,True
+var_28,Perception of professional remuneration,0.0325331927570232,9,True
+var_4,First-course choice,0.03142178865140996,10,True
+var_14,Race,0.030005945974824408,11,True
+var_23,Adequacy of the prerequisite chain,0.0295230346325393,12,True
+var_10,City and state of residence before enrollment,0.028674090892620553,13,True
+var_27,Social recognition of the related careers,0.0275224847075538,14,True
+var_29,Parents married during the programme,0.026785707112357157,15,True

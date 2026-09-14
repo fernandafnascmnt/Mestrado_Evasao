@@ -1,0 +1,126 @@
+indicator,source_variable,description,importance
+var_1_Angicos - Diurno,var_1,Campus and shift,0.010740899144225154
+var_1_Angicos - Noturno,var_1,Campus and shift,0.009416793436020683
+var_1_Caraúbas - Diurno,var_1,Campus and shift,0.008798850903410009
+var_1_Caraúbas - Noturno,var_1,Campus and shift,0.006156098504554419
+var_1_Mossoró - Diurno,var_1,Campus and shift,0.011348611375993635
+var_1_Mossoró - Noturno,var_1,Campus and shift,0.008249190783397382
+var_1_Pau dos Ferros - Diurno,var_1,Campus and shift,0.0025539090280434144
+var_1_Pau dos Ferros - Noturno,var_1,Campus and shift,0.0032113725171716047
+var_2_2008.2,var_2,Year and semester of enrollment,0.0018026023995636937
+var_2_2009.1,var_2,Year and semester of enrollment,0.0016583711081032653
+var_2_2009.2,var_2,Year and semester of enrollment,4.5856909006796886e-05
+var_2_2010.1,var_2,Year and semester of enrollment,0.005534920349896724
+var_2_2010.2,var_2,Year and semester of enrollment,0.008101830503969162
+var_2_2011.1,var_2,Year and semester of enrollment,0.0050865144982618115
+var_2_2011.2,var_2,Year and semester of enrollment,0.0008787182732752062
+var_2_2012.1,var_2,Year and semester of enrollment,0.0007170323726348193
+var_2_2012.2,var_2,Year and semester of enrollment,0.0007078626259362965
+var_2_2013.1,var_2,Year and semester of enrollment,0.00650210824404258
+var_2_2013.2,var_2,Year and semester of enrollment,0.001322671375716843
+var_2_2014.1,var_2,Year and semester of enrollment,0.002310266339822605
+var_2_2014.2,var_2,Year and semester of enrollment,0.004935349723986178
+var_2_2015.1,var_2,Year and semester of enrollment,0.0015566360579822777
+var_2_2015.2,var_2,Year and semester of enrollment,0.003390089444121984
+var_2_2016.1,var_2,Year and semester of enrollment,0.004345908450687237
+var_2_2016.2,var_2,Year and semester of enrollment,0.0021523094930478983
+var_2_2017.1,var_2,Year and semester of enrollment,0.005290944048290327
+var_2_2017.2,var_2,Year and semester of enrollment,0.003906894301199085
+var_2_2018.1,var_2,Year and semester of enrollment,0.002510163656127985
+var_2_2018.2,var_2,Year and semester of enrollment,0.0012927551232882167
+var_2_2019.1,var_2,Year and semester of enrollment,0.002038911449768479
+var_2_2019.2,var_2,Year and semester of enrollment,0.005639746169394193
+var_2_2020.1,var_2,Year and semester of enrollment,0.004918737339210057
+var_2_2020.2,var_2,Year and semester of enrollment,0.004938051717739976
+var_2_2021.1,var_2,Year and semester of enrollment,0.007822481243574052
+var_2_2021.2,var_2,Year and semester of enrollment,0.0038690259277280115
+var_2_NAO LEMBRO,var_2,Year and semester of enrollment,0.0053108672771993905
+"var_4_Não, esse foi o curso que consegui ingressar",var_4,First-course choice,0.016074082068274407
+"var_4_Sim, sempre quis cursar CeT",var_4,First-course choice,0.01534770658313555
+var_5_Não,var_5,Prior knowledge of the field,0.011491593852152298
+var_5_Sim,var_5,Prior knowledge of the field,0.012390722759066275
+var_6_Pública,var_6,Type of secondary school,0.007890552247818641
+var_6_privada,var_6,Type of secondary school,0.008132320664887453
+var_7_Escola Estadual,var_7,Type of public secondary school,0.004256076791870536
+var_7_Instituto Federal,var_7,Type of public secondary school,0.004814484428545171
+var_8_Privada,var_8,Type of elementary school,0.007465697779244355
+var_8_Pública,var_8,Type of elementary school,0.01014246214355273
+var_9_Escola Estadual,var_9,Type of public elementary school,0.011096750294689586
+var_9_Instituto Dantas Monteiro,var_9,Type of public elementary school,0.00039788966737415427
+var_9_Municipal,var_9,Type of public elementary school,0.012583922676145913
+var_9_Parte em escalo municipal e parte em estadual,var_9,Type of public elementary school,0.00011099058949643019
+var_10_CE,var_10,City and state of residence before enrollment,0.00779166229078702
+var_10_PB,var_10,City and state of residence before enrollment,0.0022387675601035256
+var_10_PE,var_10,City and state of residence before enrollment,0.0004275414075197785
+var_10_PI,var_10,City and state of residence before enrollment,0.0005218859032922849
+var_10_RJ,var_10,City and state of residence before enrollment,0.0004578175550256485
+var_10_RN,var_10,City and state of residence before enrollment,0.016848592033768078
+var_10_SP,var_10,City and state of residence before enrollment,0.0003878241421242198
+var_11_Eu já morava na mesma cidade,var_11,Relocation to the campus city,0.01760672367116001
+var_11_Não,var_11,Relocation to the campus city,0.010094705143348148
+var_11_Sim,var_11,Relocation to the campus city,0.011583749022488737
+var_12_Não,var_12,Lived in the student village,0.0031696371565489907
+var_12_Sim,var_12,Lived in the student village,0.0037722290239471054
+var_13_Feminino,var_13,Gender,0.009024073270695564
+var_13_Masculino,var_13,Gender,0.008615269438515418
+var_13_Prefiro não informar,var_13,Gender,0.00267293633464177
+var_14_Amarelo,var_14,Race,0.002369216636238472
+var_14_Branco,var_14,Race,0.009985525314888872
+var_14_Negro,var_14,Race,0.008064524506384419
+var_14_Pardo,var_14,Race,0.009294184383470261
+var_14_Prefiro não informar,var_14,Race,0.00029249513384238405
+var_15_Casado,var_15,Marital status,0.013177868711887525
+var_15_Solteiro,var_15,Marital status,0.010900385606373502
+var_16_Não,var_16,Has children,0.006098165721929792
+var_16_Sim,var_16,Has children,0.005690569450789881
+var_17_Não,var_17,Employed during the programme,0.00877566910855463
+var_17_Sim,var_17,Employed during the programme,0.009172390042497803
+var_18_Acima de 3000 reais,var_18,Family monthly income at enrollment,0.01634625888719496
+var_18_Entre 1001 e 1500 reais,var_18,Family monthly income at enrollment,0.007193888070538186
+var_18_Entre 1501 e 2000 reais,var_18,Family monthly income at enrollment,0.007838088935202341
+var_18_Entre 2001 e 2500 reais,var_18,Family monthly income at enrollment,0.00867515391896657
+var_18_Entre 2501 e 3000 reais,var_18,Family monthly income at enrollment,0.0073710567246540555
+var_18_Entre 501 e 1000 reais,var_18,Family monthly income at enrollment,0.006407639876463105
+var_18_Menos de 500 reais,var_18,Family monthly income at enrollment,0.005280196617893843
+var_19_Não,var_19,Received a scholarship during the programme,0.023211137257775447
+var_19_Sim,var_19,Received a scholarship during the programme,0.023509662860240935
+var_20_Aprovado em todas as disciplinas,var_20,Academic performance up to the second semester,0.05124974766381877
+var_20_Reprovado em cinco ou mais disciplinas,var_20,Academic performance up to the second semester,0.011661308099478313
+var_20_Reprovado em duas disciplinas,var_20,Academic performance up to the second semester,0.037326337685681873
+var_20_Reprovado em quatro disciplinas,var_20,Academic performance up to the second semester,0.006035094050609608
+var_20_Reprovado em uma disciplina,var_20,Academic performance up to the second semester,0.009444073294107113
+var_21_Não,var_21,Institutional support during the programme,0.008329761739168632
+var_21_Sim,var_21,Institutional support during the programme,0.012578674364955855
+var_22_Não,var_22,Adequacy of the curriculum,0.008923441380175687
+var_22_Sim,var_22,Adequacy of the curriculum,0.008721920729478997
+var_23_Não,var_23,Adequacy of the prerequisite chain,0.014297852484043954
+var_23_Sim,var_23,Adequacy of the prerequisite chain,0.015225182148495345
+var_24_Não,var_24,Adequacy of the assessment criteria,0.008357876070551317
+var_24_Sim,var_24,Adequacy of the assessment criteria,0.0087676145960852
+var_25_Não,var_25,Adequacy of the infrastructure,0.0062858181597878265
+var_25_Sim,var_25,Adequacy of the infrastructure,0.009103890414790676
+var_26_Não,var_26,Pedagogical problems or lack of lecturer engagement,0.010041102656346302
+var_26_Sim,var_26,Pedagogical problems or lack of lecturer engagement,0.009987310993603414
+var_27_Não,var_27,Social recognition of the related careers,0.013354006386964776
+var_27_Sim,var_27,Social recognition of the related careers,0.014168478320589024
+var_28_Não,var_28,Perception of professional remuneration,0.015163548972432656
+var_28_Sim,var_28,Perception of professional remuneration,0.01736964378459054
+var_29_Não,var_29,Parents married during the programme,0.01268675808291716
+var_29_Sim,var_29,Parents married during the programme,0.014098949029439999
+var_30_Ensino fundamental Completo,var_30,Mother's education level,0.00394904558272086
+var_30_Ensino fundamental incompleto,var_30,Mother's education level,0.01061185281194919
+var_30_Ensino médio completo,var_30,Mother's education level,0.01834056581882028
+var_30_Ensino médio incompleto,var_30,Mother's education level,0.005100820249553347
+var_30_Ensino primário incompleto,var_30,Mother's education level,0.002267997333261758
+var_30_Ensino superior Completo,var_30,Mother's education level,0.0057701679060673415
+var_30_Ensino superior incompleto,var_30,Mother's education level,0.001442219601345448
+var_30_Pós-graduação completa,var_30,Mother's education level,0.007162715604463737
+var_30_Pós-graduação incompleta,var_30,Mother's education level,0.0006959549276683867
+var_31_Ensino fundamental Completo,var_31,Father's education level,0.006746564454429506
+var_31_Ensino fundamental incompleto,var_31,Father's education level,0.012640378003233416
+var_31_Ensino médio completo,var_31,Father's education level,0.014328603838692939
+var_31_Ensino médio incompleto,var_31,Father's education level,0.004481246563205769
+var_31_Ensino primário incompleto,var_31,Father's education level,0.0059229615296946935
+var_31_Ensino superior Completo,var_31,Father's education level,0.006485140348463398
+var_31_Ensino superior incompleto,var_31,Father's education level,0.0021855304959327152
+var_31_Pós-graduação completa,var_31,Father's education level,0.0025637474399857903

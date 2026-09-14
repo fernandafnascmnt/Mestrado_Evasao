@@ -1,0 +1,8 @@
+model,best_params,count,frequency
+Decision Tree,"{""class_weight"": ""balanced"", ""criterion"": ""gini"", ""max_depth"": 5, ""min_samples_leaf"": 2, ""min_samples_split"": 5}",1,1.0
+KNN,"{""metric"": ""euclidean"", ""n_neighbors"": 5, ""weights"": ""distance""}",1,1.0
+MLP,"{""activation"": ""relu"", ""alpha"": 0.0001, ""hidden_layer_sizes"": [20], ""learning_rate_init"": 0.001}",1,1.0
+Naive Bayes,"{""model"": ""GaussianNB"", ""var_smoothing"": 1e-09}",1,1.0
+Perceptron,"{""alpha"": 0.0001, ""class_weight"": ""balanced"", ""eta0"": 0.1, ""penalty"": ""l2""}",1,1.0
+Random Forest,"{""class_weight"": ""balanced"", ""criterion"": ""gini"", ""max_depth"": 5, ""max_features"": ""sqrt"", ""min_samples_leaf"": 1, ""min_samples_split"": 5, ""n_estimators"": 100}",1,1.0
+SVM,"{""C"": 1, ""class_weight"": ""balanced"", ""gamma"": ""scale"", ""kernel"": ""rbf""}",1,1.0

@@ -1,0 +1,62 @@
+{
+  "sample": {
+    "total": 229,
+    "training": 183,
+    "test": 46,
+    "training_class_counts": {
+      "0": 147,
+      "1": 36
+    },
+    "test_class_counts": {
+      "0": 37,
+      "1": 9
+    }
+  },
+  "protocol": {
+    "target": "var_0",
+    "positive_class": "1 = dropout",
+    "excluded_features": [
+      "var_3"
+    ],
+    "outer_split": "80/20 stratified, random_state=42",
+    "inner_cv": "StratifiedKFold(n_splits=3, shuffle=True), repeated 1 times",
+    "feature_selection": "Random Forest importance fitted on the training partition after most-frequent imputation and one-hot encoding; indicator importances aggregated by source variable",
+    "selector_n_estimators": 500,
+    "selector_class_weight": "balanced",
+    "selected_features": [
+      "var_20",
+      "var_2",
+      "var_1",
+      "var_18",
+      "var_31",
+      "var_30",
+      "var_19",
+      "var_11",
+      "var_28",
+      "var_4",
+      "var_14",
+      "var_23",
+      "var_10",
+      "var_27",
+      "var_29"
+    ],
+    "refit_metric": "f1",
+    "metrics": [
+      "accuracy",
+      "precision",
+      "recall",
+      "f1",
+      "roc_auc"
+    ],
+    "significance_level": 0.05,
+    "reduced_run": true
+  },
+  "environment": {
+    "python": "3.13.5 (tags/v3.13.5:6cb20a2, Jun 11 2025, 16:15:46) [MSC v.1943 64 bit (AMD64)]",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "numpy": "2.5.3",
+    "pandas": "3.0.5",
+    "scipy": "1.18.1",
+    "scikit_learn": "1.9.1"
+  }
+}
